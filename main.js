@@ -1,5 +1,5 @@
 var typed= new Typed(".text", {
-    strings: ["Student"],
+    strings: ["Final Year BTech Student"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
