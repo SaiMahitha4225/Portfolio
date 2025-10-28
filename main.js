@@ -1,5 +1,5 @@
 var typed= new Typed(".text", {
-    strings: ["Final Year BTech Student"],
+    strings: ["Completed my BTech"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -25,3 +25,4 @@ document.addEventListener('DOMContentLoaded', () => {
         form.reset();
     });
 });
+
